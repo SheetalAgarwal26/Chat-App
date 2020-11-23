@@ -1,0 +1,23 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.1+2\\
+cloud_firestore_web=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.0+3\\
+firebase_auth=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.1+1\\
+firebase_auth_web=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.1\\
+firebase_core=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.0\\
+firebase_core_web=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.0\\
+flutter_plugin_android_lifecycle=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+geolocator=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-5.3.2+2\\
+google_api_availability=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_api_availability-2.0.4\\
+google_maps_flutter=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.33\\
+google_sign_in=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.5.5\\
+google_sign_in_web=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in_web-0.9.2\\
+location_permissions=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location_permissions-3.0.0+1\\
+path_provider=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.22\\
+path_provider_linux=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_macos=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+4\\
+path_provider_windows=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+1\\
+shared_preferences=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.12+2\\
+shared_preferences_linux=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+2\\
+shared_preferences_macos=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+10\\
+shared_preferences_web=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+shared_preferences_windows=C:\\Users\\Sheet\\Desktop\\Flutter_Class\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-0.0.1+1\\
